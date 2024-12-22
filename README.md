@@ -1,6 +1,6 @@
 ## OLÁ! EU SOU RICARDO LOPES / Dev Market
 
-- 📚 Atualmente estou cursando Engenharia de Software
+- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 📊 Estudo o mercado financeiro desde 2018
 - ⬇️ Minhas redes sociais
 
